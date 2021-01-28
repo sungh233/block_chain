@@ -1,4 +1,4 @@
-#HOW TO RUN
+# HOW TO RUN
 $ cd ~/asset-app
 $ ./gradlew build
 $ cd dist
